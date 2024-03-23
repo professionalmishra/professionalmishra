@@ -8,7 +8,7 @@
 - 💬 Ask me about anything, I am happy to help.
 - 🚀 I love creating seamless user experiences and solving complex problems through code.
 - 💼 I'm available for freelance web development projects. If you have any opportunities, feel free to [contact me](https://www.linkedin.com/in/RajMishra143/)!
-- 📫 How to reach me: [https://t.me/sauravhathi_yt_discussion](https://t.me/Mishrajiixd)
+- 📫 How to reach me: [https://t.me/MishrajiiXD](https://t.me/Mishrajiixd)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=professionalmishra&show_icons=true&locale=en&layout=compact" alt="ProfessionalMishra" /></p>
