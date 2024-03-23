@@ -1,3 +1,18 @@
+<h1 align="center">Hi 👋, I'm Raj Mishra</h1>
+<h3 align="center">A passionate Web Engineer from India</h3>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=professionalmishra&label=Profile%20views&color=0e75b6&style=flat" alt="professionalmishra" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professionalmishra" alt="professionalmishra" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/professionalmishra](https://github.com/professionalmishra)
+- 💬 Ask me about anything, I am happy to help.
+- 🚀 I love creating seamless user experiences and solving complex problems through code.
+- 💼 I'm available for freelance web development projects. If you have any opportunities, feel free to [contact me](https://www.linkedin.com/in/sauravhathi/)!
+- 📫 How to reach me: [https://t.me/sauravhathi_yt_discussion](https://t.me/sauravhathi_yt_discussion)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravhathi&show_icons=true&locale=en&layout=compact" alt="sauravhathi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravhathi&show_icons=true&locale=en" alt="sauravhathi" /></p>
