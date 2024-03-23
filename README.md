@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Web Engineer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=professionalmishra&label=Profile%20views&color=0e75b6&style=flat" alt="professionalmishra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=professionalmishra" alt="professionalmishra" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/professionalmishra](https://github.com/professionalmishra)
 - 💬 Ask me about anything, I am happy to help.
